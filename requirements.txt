@@ -1,0 +1,12 @@
+flask
+dash
+plotly
+dash_bootstrap_components
+dash_bootstrap_templates 
+pandas 
+datetime
+pytz
+keras
+sklearn
+pymongo
+tensorflow
